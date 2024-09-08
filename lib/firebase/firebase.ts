@@ -8,11 +8,11 @@ import { getAuth } from 'firebase/auth'
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_KEY,
-  authDomain: 'anverso-f061e.firebaseapp.com',
-  projectId: 'anverso-f061e',
-  storageBucket: 'anverso-f061e.appspot.com',
-  messagingSenderId: '861220817704',
-  appId: '1:861220817704:web:56055a29b199e63e95de1d'
+  authDomain: '',
+  projectId: '',
+  storageBucket: '',
+  messagingSenderId: '',
+  appId: ''
 }
 
 // Initialize Firebase
